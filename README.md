@@ -1,4 +1,4 @@
-\# kulinka.cz Source Code
+# Kulinka.cz source code 
 
 
 
